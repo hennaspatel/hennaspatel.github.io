@@ -2268,90 +2268,9 @@ body {
 .cid-qVDvmUr9Fx .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-qVI5Kmt8OU {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-  position: relative;
-}
-.cid-qVI5Kmt8OU p {
-  color: #767676;
-}
-.cid-qVI5Kmt8OU .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-qVI5Kmt8OU .toggle-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-qVI5Kmt8OU .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-qVI5Kmt8OU .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-qVI5Kmt8OU .card .card-header a.panel-title {
-  margin-bottom: 0;
-  margin-top: -1px;
-  font-weight: 500;
-  font-style: normal;
-  display: block;
-  text-decoration: none !important;
-}
-.cid-qVI5Kmt8OU .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-qVI5Kmt8OU .card .card-header a.panel-title h4 {
-  border: 1px solid #dfdfdf;
-  padding: 1.3rem 2rem;
-  margin-bottom: 0;
-}
-.cid-qVI5Kmt8OU .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-qVI5Kmt8OU .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-}
-@media (max-width: 991px) {
-  .cid-qVI5Kmt8OU .mbr-figure {
-    padding-top: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-qVI5Kmt8OU .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-.cid-qVIujfIPIg {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-qVIujfIPIg .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qVIujfIPIg .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-qVIujfIPIg .mbr-text,
-.cid-qVIujfIPIg .mbr-section-btn {
-  color: #232323;
-}
-.cid-qVIujfIPIg .mbr-section-title {
-  color: #000000;
-}
 .cid-qVIxdaBxwn {
   padding-top: 60px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
   position: relative;
 }
@@ -2386,6 +2305,9 @@ body {
 }
 .cid-qVIxdaBxwn .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
+}
+.cid-qVIxdaBxwn .panel-text {
+  text-align: left;
 }
 .cid-qVIwku0nPw {
   padding-top: 60px;
