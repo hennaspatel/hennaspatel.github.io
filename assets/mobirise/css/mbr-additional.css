@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 4rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2rem;
+    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.2rem;
@@ -2263,7 +2263,7 @@ body {
 .cid-qVDvmUr9Fx {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-813x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 .cid-qVDvmUr9Fx .mbr-section-subtitle {
   color: #ffffff;
@@ -2383,7 +2383,7 @@ body {
 }
 .cid-qVIz2rSuJH {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
   position: relative;
 }
@@ -2419,10 +2419,21 @@ body {
 .cid-qVIz2rSuJH .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
-.cid-qVF4o0tsGP {
+.cid-qVIz2rSuJH .panel-text B {
+  color: #1f8951;
+}
+.cid-qVIW27DmLl {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #f4e2e6;
+}
+.cid-qVIW27DmLl .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qVJ6zi429v {
   padding-top: 0px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #f4e2e6;
 }
 .cid-qVzTNrozld {
   padding-top: 90px;
@@ -2433,5 +2444,17 @@ body {
   color: #767676;
 }
 .cid-qVzTNrozld .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qVIXrOoEn5 {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #f9cad6);
+}
+.cid-qVIXrOoEn5 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qVIXrOoEn5 .btn {
   margin: 0 0 .5rem 0;
 }
