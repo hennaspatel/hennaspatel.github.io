@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -654,13 +654,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1783,7 +1783,7 @@ body {
   text-align: right;
 }
 .cid-qVr4U2Z5Js B {
-  color: #232323;
+  color: #000000;
 }
 .cid-qVr4U2Z5Js .mbr-text,
 .cid-qVr4U2Z5Js .mbr-section-btn {
@@ -3043,6 +3043,9 @@ body {
 }
 .cid-qVxQcd8sq9 H4 {
   text-align: left;
+}
+.cid-qVxQcd8sq9 .mbr-content-text B {
+  color: #232323;
 }
 .cid-qVxWoqkbsI {
   padding-top: 0px;
@@ -4627,7 +4630,7 @@ body {
   padding-right: 1rem;
 }
 .cid-qVIz2rSuJH .panel-text B {
-  color: #1f8951;
+  color: #000000;
 }
 .cid-qVKURBYFrc {
   padding-top: 30px;
@@ -5038,7 +5041,7 @@ body {
   background: linear-gradient(45deg, #ffffff, #eccdd5);
 }
 .cid-qVIXrOoEn5 .mbr-section-subtitle {
-  color: #767676;
+  color: #6b6969;
 }
 .cid-qVIXrOoEn5 .btn {
   margin: 0 0 .5rem 0;
