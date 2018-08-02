@@ -2515,7 +2515,7 @@ body {
 }
 .cid-qZzR6kRcee {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #f9f9f9;
 }
 .cid-qZzR6kRcee h2 {
@@ -2585,11 +2585,17 @@ body {
     -webkit-flex-basis: 100%;
   }
 }
+.cid-qZzR6kRcee .mbr-section-subtitle B {
+  color: #7f1933;
+}
 .cid-qZAENaNX4X {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-qZAENaNX4X .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qZAENaNX4X H2 {
+  color: #7f1933;
 }
