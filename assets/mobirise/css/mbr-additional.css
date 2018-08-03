@@ -1285,10 +1285,10 @@ body {
   display: none;
 }
 .cid-qVrLTtC7WC {
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qVrLTtC7WC H1 {
-  color: #5b686b;
+  color: #232323;
   text-align: left;
 }
 .cid-qVrLTtC7WC .mbr-text,
@@ -2075,10 +2075,12 @@ body {
   color: #f9cad6 !important;
 }
 .cid-qZwh4I9NAQ {
-  background-color: #efefef;
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-qZwh4I9NAQ H1 {
-  color: #5b686b;
+  color: #232323;
   text-align: left;
 }
 .cid-qZwh4I9NAQ .mbr-text,
@@ -2483,7 +2485,7 @@ body {
 .cid-qZzR6kRcee {
   padding-top: 90px;
   padding-bottom: 30px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qZzR6kRcee h2 {
   text-align: center;
@@ -2556,7 +2558,7 @@ body {
   color: #7f1933;
 }
 .cid-qZzR6kRcee .mbr-section-title B {
-  color: #5b686b;
+  color: #232323;
 }
 .cid-qZzR6kRcee .mbr-section-subtitle DIV {
   color: #465052;
@@ -2984,18 +2986,19 @@ body {
 .cid-qZATQA8zFf {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qZATQA8zFf .mbr-section-subtitle {
   color: #465052;
+  text-align: left;
 }
 .cid-qZATQA8zFf B {
-  color: #5b686b;
+  color: #232323;
 }
 .cid-qZAUaFq07u {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-qZAUaFq07u .counter-container {
   color: #767676;
@@ -3031,10 +3034,11 @@ body {
 .cid-qZAZHwYvR7 {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qZAZHwYvR7 .mbr-section-subtitle {
   color: #465052;
+  text-align: center;
 }
 .cid-qZAZHwYvR7 H2 {
   color: #7f1933;
@@ -3042,7 +3046,7 @@ body {
 .cid-qZB3cv1ckZ {
   padding-top: 15px;
   padding-bottom: 30px;
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-qZB3cv1ckZ .video-block {
   margin: auto;
@@ -3059,6 +3063,7 @@ body {
 }
 .cid-qZB4NWd7EP .mbr-section-subtitle {
   color: #465052;
+  text-align: center;
 }
 .cid-qZB4NWd7EP H2 {
   color: #7f1933;
@@ -3540,6 +3545,7 @@ body {
 }
 .cid-qZCnibqtCQ .mbr-section-subtitle {
   color: #465052;
+  text-align: center;
 }
 .cid-qZCnibqtCQ H2 {
   color: #7f1933;
