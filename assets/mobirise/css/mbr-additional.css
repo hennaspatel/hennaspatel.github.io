@@ -2075,8 +2075,6 @@ body {
   color: #f9cad6 !important;
 }
 .cid-qZwh4I9NAQ {
-  padding-top: 135px;
-  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-qZwh4I9NAQ H1 {
@@ -2562,6 +2560,16 @@ body {
 }
 .cid-qZzR6kRcee .mbr-section-subtitle DIV {
   color: #465052;
+  text-align: left;
+}
+.cid-qZzR6kRcee .mbr-section-title {
+  text-align: center;
+}
+.cid-qZzR6kRcee .mbr-section-text {
+  text-align: right;
+}
+.cid-qZzR6kRcee .mbr-crt-title {
+  text-align: right;
 }
 .cid-qZAENaNX4X {
   padding-top: 30px;
